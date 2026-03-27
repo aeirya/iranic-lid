@@ -1,0 +1,86 @@
+
+- Talysh
+- Tati
+- Central Plateau Group 
+	- Raji
+	- Rayeji
+	- Velayati
+- Khuri-Farvi
+	- Biyabanaki
+	- Gabri
+	- Kavir
+- Sivandi
+- Biabanaki
+
+- Norhern Kurdish
+- Central Kurdish
+- Sothern Kurdish
+- Laki
+- Palai
+	- Kurdali
+- Kirdki
+	- Western Kurdish
+	- Zaza
+	- Dimilki
+	- Kirmanjki
+- Hawrami Group
+	- Eastern Kurdish
+
+- Gilaki
+- Mazandarani
+	- Tabari
+- Rudbari-Alamuti-Talequani
+	- Tatoid
+	- Tabaroid
+- Semnani Group
+	- Komeshi
+	- Qomeshi
+	- Balochi
+
+- Caucasian Tat
+	- Northern Tati
+	- Persian Tati
+- Persian
+	- New Persian
+	- Dari Persian
+	- Modern Persian
+- Luri
+- Dezfuli-Shushtari
+	- Khuzi
+	- Khuzestani
+- Pars Group
+	- 'Dialects' of Fars
+- Larestani
+	- Achomi
+	- Khodmuni
+	- Lari
+- Garmsiri Group
+	- Bandari
+	- Bandari Persian
+	- Hormozgani
+- Bashkardi
+	- Southern Basshkardi
+	- Bashagardi
+- Kumzari
+
+- Ossetian
+- Yaghnobi 
+	- Neo-Sogdian
+
+- Yazghulami
+- Bartangi
+- Rushani
+- Khufi
+- Shughni
+	- Shughni Proper
+- Sarikoli
+- Wakhi
+- Ishkashimi
+- Zebaki
+- Sanglichi
+- Yidgha
+- Munji
+	- Munjani
+
+- Pashto
+- Ormuri, Parachi
